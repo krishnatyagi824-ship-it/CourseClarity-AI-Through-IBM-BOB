@@ -1,0 +1,8 @@
+ibm-watsonx-ai>=0.2.6
+streamlit>=1.35.0
+python-dotenv>=1.0.0
+PyMuPDF>=1.24.0
+python-docx>=1.1.0
+requests>=2.31.0
+tiktoken>=0.7.0
+pandas>=2.2.0
